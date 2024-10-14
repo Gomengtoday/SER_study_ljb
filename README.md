@@ -1,4 +1,4 @@
-
+This code is only for my personal learning and use
 # speech-emotion-recognition-iemocap
 
 ## Introduction
